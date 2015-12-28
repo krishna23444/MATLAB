@@ -1,0 +1,3 @@
+runCheckmark;
+testDetector;
+parseresults;

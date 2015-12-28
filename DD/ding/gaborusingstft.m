@@ -1,0 +1,2 @@
+%GABOR TRANSFORM USING SHORT TIME FOURIER TRANSFORM
+contour(abs(stft2(f, 1, 256,1,7, 'long')),[0.05:.01:1])
